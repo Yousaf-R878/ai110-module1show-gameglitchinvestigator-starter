@@ -30,7 +30,7 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] Explain what fixes you applied.
 
 ## 📸 Demo
-
+ 
 ![Demo Screenshot](Screenshot%202026-03-18%20at%202.13.15%20AM.png)
 
 ## 🚀 Stretch Features
